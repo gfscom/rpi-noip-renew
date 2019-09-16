@@ -3,7 +3,7 @@
 [noip.com](https://www.noip.com/) propone un servizio di free hosts che scade (e va quindi rinnovato) ogni mese.
 Questo script simula il login alla pagina del servizio e il rinnovo tramite pulsante ad-hoc utilizzando Python/Selenium con Chrome headless mode.
 
-**Progetto originale**: [loblab/noip-renew](https://github.com/loblab/noip-renew) ([articolo ufficiale sul blog (in cinese)](http://www.jianshu.com/p/3c8196175147)), modificato secondo quanto suggerito nel thread [github.com/loblab/noip-renew/issues/4](https://github.com/loblab/noip-renew/issues/4).
+**Progetto originale**: [loblab/noip-renew](https://github.com/loblab/noip-renew) ([articolo ufficiale sul blog (in cinese)](http://www.jianshu.com/p/3c8196175147)), modificato secondo quanto suggerito nel thread [github.com/loblab/noip-renew/issues/4](https://github.com/loblab/noip-renew/issues/4#issuecomment-496487647).
 
 **Testato su RPi 3B+ con Raspbian 9**:
 
